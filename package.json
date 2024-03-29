@@ -1,0 +1,19 @@
+{
+  "name": "tayyab-bank-atm-machine",
+  "version": "2.0.0",
+  "description": "This is cli bank and ATM machine ",
+  "main": "index.js",
+  "type" : "module",
+  "bin":"app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  }
+}
